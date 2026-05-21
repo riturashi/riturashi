@@ -8,7 +8,7 @@
 
 ## 👩‍💻 About Me
 
-- Mobile App Developer with 5+ years of experience in Android and Cross-Platform Mobile Development
+- Mobile App Developer with 5 years of experience in Android and Cross-Platform Mobile Development
 - Experienced in designing, developing, and maintaining mobile applications
 - Strong experience in REST API integration with mobile apps
 - Experience in developing, hosting, and deploying .NET REST APIs
