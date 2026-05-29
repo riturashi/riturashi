@@ -8,13 +8,13 @@
 
 ## 👩‍💻 About Me
 
-- Mobile App Developer with 5 years of experience in Android and Cross-Platform Mobile Development
+- Mobile App Developer nearly 5 years of experience in Android and Cross-Platform Mobile Development
 - Experienced in designing, developing, and maintaining mobile applications
 - Strong experience in REST API integration with mobile apps
 - Experience in developing, hosting, and deploying .NET REST APIs
 - Worked with SQL Server and SQLite databases
 - Passionate about building scalable and user-friendly applications
-- Familiar with Spring Boot for backend development
+
 
 ---
 
@@ -23,14 +23,13 @@
 ### Mobile App Development
 - Android
 - Java
-- Kotlin
 - Flutter
+- Kotlin
 - React Native
 
 ### Backend & APIs
 - .NET Web API
 - REST APIs
-- Spring Boot (basic knowledge)
 - API Hosting & Deployment
 
 ### Database
@@ -42,6 +41,7 @@
 - Visual Studio
 - Git
 - GitHub
+- GitHub Copilot
 - Postman
 - SQL Server Management Studio (SSMS)
 
