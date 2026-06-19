@@ -8,13 +8,14 @@
 
 ## 👩‍💻 About Me
 
-- Mobile App Developer nearly 5 years of experience in Android and Cross-Platform Mobile Development
-- Experienced in designing, developing, and maintaining mobile applications
-- Strong experience in REST API integration with mobile apps
-- Experience in developing, hosting, and deploying .NET REST APIs
-- Worked with SQL Server and SQLite databases
-- Passionate about building scalable and user-friendly applications
-
+* Mobile Application Developer with around 5 years of experience in Android and cross-platform mobile development using Java, Kotlin, and Flutter
+* Hands-on experience across Enterprise, Logistics & Supply Chain, E-commerce, and B2G domains
+* Experienced in designing, developing, and maintaining mobile applications across the complete application lifecycle
+* Worked on Payment Integration (Razorpay), Background Services, and Responsive UI design
+* Strong experience in REST API integration with mobile applications
+* Experienced in Play Store deployment and resolving production issues
+* Skilled practitioner of AI-assisted development using Cursor, Claude, ChatGPT, and Gemini
+* Passionate about building scalable, reliable, and user-friendly mobile applications
 
 ---
 
