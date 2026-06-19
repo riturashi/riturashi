@@ -23,8 +23,8 @@
 ### Mobile App Development
 - Android
 - Java
-- Flutter
 - Kotlin
+- Flutter
 - React Native
 
 ### Backend & APIs
