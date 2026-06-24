@@ -2,7 +2,6 @@
 
 💻 **Mobile App Developer**  
 📱 **Android | Java | Kotlin | Flutter**  
-⚙️ **Backend API Integration (.NET) | SQL Server**
 
 ---
 
