@@ -1,7 +1,7 @@
 # Hi 👋 I'm Rashi Ritu
 
 💻 **Mobile App Developer**  
-📱 **Android | Java | Kotlin | Flutter | React Native**  
+📱 **Android | Java | Kotlin | Flutter**  
 ⚙️ **Backend API Integration (.NET) | SQL Server**
 
 ---
