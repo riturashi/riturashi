@@ -8,7 +8,7 @@
 * Mobile Application Developer with 5 years of experience in Android and cross-platform mobile application development using Java, Kotlin, and Flutter
 * Experienced in developing and maintaining applications across Government (B2G), Enterprise, Logistics & Supply Chain, and E-commerce domains
 * Strong understanding of the complete mobile application development lifecycle, from requirement analysis and development to deployment and production support
-* Hands-on experience with REST API integration and SQL Server backend connectivity
+* Hands-on experience with REST API integration 
 * Worked on Payment Gateway Integration (Razorpay), video streaming, LaTeX rendering, PDF handling, background services, and responsive UI development
 * Experienced in Google Play Store deployment, application maintenance, bug fixing, and production issue resolution
 * Proficient in Android development using Java, Kotlin, Android SDK, Jetpack components, Room Database, and modern development practices
