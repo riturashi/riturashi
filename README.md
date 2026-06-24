@@ -1,19 +1,18 @@
 # Hi 👋 I'm Rashi Ritu
-
-💻 **Mobile App Developer**  
-📱 **Android | Java | Kotlin | Flutter**  
+💻 **Mobile App Developer**
+📱 **Android | Java | Kotlin | Flutter**
 
 ---
 
 ## 👩‍💻 About Me
-
-* Mobile Application Developer with around 5 years of experience in Android and cross-platform mobile development using Java, Kotlin, and Flutter
-* Hands-on experience across Enterprise, Logistics & Supply Chain, E-commerce, and B2G domains
-* Experienced in designing, developing, and maintaining mobile applications across the complete application lifecycle
-* Worked on Payment Integration (Razorpay), Background Services, and Responsive UI design
-* Strong experience in REST API integration with mobile applications
-* Experienced in Play Store deployment and resolving production issues
-* Skilled practitioner of AI-assisted development using Cursor, Claude, ChatGPT, and Gemini
+* Mobile Application Developer with 5 years of experience in Android and cross-platform mobile application development using Java, Kotlin, and Flutter
+* Experienced in developing and maintaining applications across Government (B2G), Enterprise, Logistics & Supply Chain, and E-commerce domains
+* Strong understanding of the complete mobile application development lifecycle, from requirement analysis and development to deployment and production support
+* Hands-on experience with REST API integration and SQL Server backend connectivity
+* Worked on Payment Gateway Integration (Razorpay), video streaming, LaTeX rendering, PDF handling, background services, and responsive UI development
+* Experienced in Google Play Store deployment, application maintenance, bug fixing, and production issue resolution
+* Proficient in Android development using Java, Kotlin, Android SDK, Jetpack components, Room Database, and modern development practices
+* Skilled in AI-assisted development using Cursor, Claude, ChatGPT, Gemini, and GitHub Copilot to improve productivity and code quality
 * Passionate about building scalable, reliable, and user-friendly mobile applications
 
 ---
@@ -35,6 +34,7 @@
 ### Database
 - SQL Server
 - SQLite
+- Room
 
 ### Tools
 - Android Studio
@@ -44,19 +44,20 @@
 - GitHub Copilot
 - Postman
 - SQL Server Management Studio (SSMS)
+- IIS
 
 ---
 
-## 📂 Projects
-
-- 📱 Android Applications
-- 🔗 Android Apps with .NET REST API Integration
-- 🎨 Mobile UI Development
-- 🗄 SQL Server Database Applications
+## 📂 Featured Applications
+- [eSahkari](https://play.google.com/store/apps/details?id=in.nic.bih.eSahkari)
+- [ePanchayati Raj](https://play.google.com/store/apps/details?id=bih.nic.in.epanchayatiraj)
+- [Jal Jeevan Hariyali](https://play.google.com/store/apps/details?id=bih.in.jaljeevanharyali)
+- [Post Metric Scholarship](https://play.google.com/store/apps/details?id=bih.in.postmetric)
+- [Eekh Mitra](https://play.google.com/store/apps/details?id=com.bihnic.eekhmitra)
+- [Disha Test Board](https://play.google.com/store/apps/details?id=com.disha.testborad)
 
 ---
 
 ## 📫 Connect With Me
-
-- GitHub: https://github.com/riturashi  
-- LinkedIn: https://www.linkedin.com/in/rashi-ritu-9450a4152
+- GitHub: [@riturashi](https://github.com/riturashi)
+- LinkedIn: [Rashi Ritu](https://www.linkedin.com/in/rashi-ritu-9450a4152)
