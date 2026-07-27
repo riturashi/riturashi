@@ -24,7 +24,6 @@
 - Java
 - Kotlin
 - Flutter
-- React Native
 
 ### Backend & APIs
 - .NET Web API
@@ -41,7 +40,6 @@
 - Visual Studio
 - Git
 - GitHub
-- GitHub Copilot
 - Postman
 - SQL Server Management Studio (SSMS)
 - IIS
