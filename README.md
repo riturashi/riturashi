@@ -12,7 +12,7 @@
 * Worked on Payment Gateway Integration (Razorpay), video streaming, LaTeX rendering, PDF handling, background services, and responsive UI development
 * Experienced in Google Play Store deployment, application maintenance, bug fixing, and production issue resolution
 * Proficient in Android development using Java, Kotlin, Android SDK, Jetpack components, Room Database, and modern development practices
-* Skilled in AI-assisted development using Cursor, Claude, ChatGPT, Gemini, and GitHub Copilot to improve productivity and code quality
+* Skilled in AI-assisted development using Claude, ChatGPT, Gemini, and GitHub Copilot to improve productivity and code quality
 * Passionate about building scalable, reliable, and user-friendly mobile applications
 
 ---
