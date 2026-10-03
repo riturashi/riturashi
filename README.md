@@ -5,7 +5,7 @@
 ---
 
 ## 👩‍💻 About Me
-* Mobile Application Developer with 5 years of experience in Android and cross-platform mobile application development using Java, Kotlin, and Flutter
+* Mobile Application Developer with 4.11 years of experience in Android and cross-platform mobile application development using Java, Kotlin, and Flutter
 * Experienced in developing and maintaining applications across Government (B2G), Enterprise, Logistics & Supply Chain, and E-commerce domains
 * Strong understanding of the complete mobile application development lifecycle, from requirement analysis and development to deployment and production support
 * Hands-on experience with REST API integration 
@@ -25,24 +25,15 @@
 - Kotlin
 - Flutter
 
-### Backend & APIs
-- .NET Web API
-- REST APIs
-- API Hosting & Deployment
-
 ### Database
-- SQL Server
 - SQLite
 - Room
 
 ### Tools
 - Android Studio
 - Visual Studio
-- Git
 - GitHub
 - Postman
-- SQL Server Management Studio (SSMS)
-- IIS
 
 ---
 
@@ -53,9 +44,11 @@
 - [eSahkari](https://play.google.com/store/apps/details?id=in.nic.bih.eSahkari)
 - [Jal Jeevan Hariyali](https://play.google.com/store/apps/details?id=bih.in.jaljeevanharyali)
 - [Post Metric Scholarship](https://play.google.com/store/apps/details?id=bih.in.postmetric)
+- [Jal Jeevan Hariyali](https://play.google.com/store/apps/details?id=bih.in.jaljeevanharyali)
 
 ---
 
 ## 📫 Connect With Me
 - GitHub: [@riturashi](https://github.com/riturashi)
 - LinkedIn: [Rashi Ritu](https://www.linkedin.com/in/rashi-ritu-9450a4152)
+- Portfolio: [https://rashi-portfolio-five.vercel.app/]
